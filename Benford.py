@@ -7,6 +7,7 @@ from scipy.stats import norm
 from scipy.stats import expon
 from scipy.optimize import curve_fit
 
+
 # Number of Monte Carlo simulations to perform
 simulation_number = 1000000
 # Initialize all the digit numbers to zero
